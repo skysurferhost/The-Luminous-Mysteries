@@ -91,8 +91,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 2.871021549299231,
-          "pitch": -0.29438588691595413,
+          "yaw": 2.9251674725287007,
+          "pitch": -0.2948626834376924,
           "title": "Jesus Changes Water Into Wine",
           "text": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there, and Jesus and his disciples had also been invited to the wedding. When the wine was gone, Jesus’ mother said to him, “They have no more wine.” “Woman, why do you involve me?” Jesus replied. “My hour has not yet come.” His mother said to the servants, “Do whatever he tells you.” Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons. Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim. Then he told them, “Now draw some out and take it to the master of the banquet.” They did so, and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.” What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him. (John 2:1-11)"
         }
@@ -146,8 +146,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7070247476008227,
-          "pitch": -0.4702268484140788,
+          "yaw": -0.7063848652466902,
+          "pitch": -0.5098328460702231,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!” (Mark 1:14-15)"
         }
@@ -187,6 +187,12 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
+          "yaw": 1.4779265232611936,
+          "pitch": 0.3986476864341242,
+          "rotation": 0,
+          "target": "0-1-the-baptism-of-the-lord"
+        },
+        {
           "yaw": -1.9247006390352386,
           "pitch": 0.09638344719362557,
           "rotation": 0,
@@ -195,8 +201,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.472997734622714,
-          "pitch": -0.19520493217832957,
+          "yaw": 1.3299190674923747,
+          "pitch": -0.21284186974323305,
           "title": "The Transfiguration",
           "text": "After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. Just then there appeared before them Moses and Elijah, talking with Jesus. Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.” While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!” When the disciples heard this, they fell facedown to the ground, terrified. But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” When they looked up, they saw no one except Jesus. (Matthew 17:1-8)"
         }
