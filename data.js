@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6146937355554876,
-          "pitch": -0.1763777695245352,
+          "yaw": 0.6235304051620183,
+          "pitch": -0.1752932670106766,
           "title": "The Baptism of Jesus",
           "text": "Then Jesus came from Galilee to the Jordan to be baptized by John. But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”<div><br></div><div>Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.</div><div><br></div><div>As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”</div><div>(Matthew 3:13–17)</div>"
         }
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.024637397662942817,
-          "pitch": -0.48949280152742425,
+          "yaw": 0.01797871270576934,
+          "pitch": -0.47385906527658683,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!”&nbsp;<div>(Mark 1:14-15)</div>"
         }
@@ -193,8 +193,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8029847131812557,
-          "pitch": 0.38516695446584137,
+          "yaw": 1.8026058962436817,
+          "pitch": 0.38103172381361006,
           "rotation": 0,
           "target": "4-5-the-institution-of-the-eucharist"
         },
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.7898149568413402,
-          "pitch": -0.1299796342031101,
+          "yaw": 1.71832037522912,
+          "pitch": -0.1197861019002886,
           "title": "The Transfiguration",
           "text": "After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. Just then there appeared before them Moses and Elijah, talking with Jesus.<div><br></div><div>Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.”</div><div><br></div><div>While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!”</div><div><br></div><div>When the disciples heard this, they fell facedown to the ground, terrified. But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” When they looked up, they saw no one except Jesus.</div><div>(Matthew 17:1-8)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.08852131970504118,
-          "pitch": -0.5036474359572001,
+          "yaw": 0.06865999545901147,
+          "pitch": -0.5026090379846924,
           "title": "The Last Supper",
           "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”<div><br></div><div>Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins.</div><div>(Matthew 26:26-28)</div>"
         }
