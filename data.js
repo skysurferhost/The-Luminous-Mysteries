@@ -138,8 +138,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.04107586985769096,
-          "pitch": -0.17026066525598438,
+          "yaw": 0.06907382329597667,
+          "pitch": -0.17035719594284515,
           "rotation": 0,
           "target": "3-4-the-transfiguration"
         },
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.00011336963761188201,
-          "pitch": -0.49032223111689355,
+          "yaw": 0.024637397662942817,
+          "pitch": -0.48949280152742425,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!”&nbsp;<div>(Mark 1:14-15)</div>"
         }
@@ -193,22 +193,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.83046350557155,
-          "pitch": 0.39583465942190443,
+          "yaw": 1.8029847131812557,
+          "pitch": 0.38516695446584137,
           "rotation": 0,
           "target": "4-5-the-institution-of-the-eucharist"
         },
         {
-          "yaw": -1.7503438106649831,
-          "pitch": 0.01422315266831653,
+          "yaw": -1.748073222986461,
+          "pitch": -0.012033693567310877,
           "rotation": 0,
           "target": "2-3-the-proclamation-of-the-kingdom"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.7511749573960538,
-          "pitch": -0.1317884466162731,
+          "yaw": 1.7898149568413402,
+          "pitch": -0.1299796342031101,
           "title": "The Transfiguration",
           "text": "After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. Just then there appeared before them Moses and Elijah, talking with Jesus.<div><br></div><div>Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.”</div><div><br></div><div>While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!”</div><div><br></div><div>When the disciples heard this, they fell facedown to the ground, terrified. But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” When they looked up, they saw no one except Jesus.</div><div>(Matthew 17:1-8)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.06509409668312216,
-          "pitch": -0.4996520133085802,
+          "yaw": 0.08852131970504118,
+          "pitch": -0.5036474359572001,
           "title": "The Last Supper",
           "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”<div><br></div><div>Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins.</div><div>(Matthew 26:26-28)</div>"
         }
