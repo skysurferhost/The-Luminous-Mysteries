@@ -248,16 +248,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8911809066809484,
-          "pitch": 0.12989975817713528,
+          "yaw": 1.7996773456601955,
+          "pitch": 0.0118117757142997,
           "rotation": 0,
           "target": "3-4-the-transfiguration"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.07802354591362004,
-          "pitch": -0.34811315586330593,
+          "yaw": 0.06865999545901147,
+          "pitch": -0.5026090379846924,
           "title": "The Institution of the Lord’s Supper",
           "text": "Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, “Take, eat; this is my body.” And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you; for this is my blood of the] covenant, which is poured out for many for the forgiveness of sins.<div>(Matthew 26:26-28)</div>"
         }
